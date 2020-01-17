@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/ruby-developer.rb"]
   s.homepage    =
     'http://rubygems.org/gems/ruby-develper'
-  s.license       = 'Apache License'
+  s.license       = 'Apache-2.0'
 end
